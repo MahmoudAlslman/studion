@@ -44,7 +44,7 @@ ul {
   color: #fff;
 }
 
-.navbar___container {
+.navbar__container {
   display: grid;
   grid-template-columns: 1fr 9fr;
   align-items: center;
